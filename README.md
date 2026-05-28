@@ -6,7 +6,7 @@
 ## Repository Layout
 
 ```
-├── notebook.ipynb        ← main notebook (Tasks 1–4 + Correlation + Forecasting)
+├── notebook.ipynb                      ← main notebook (Tasks 1–4 + Correlation + Forecasting)
 ├── script
     ├──app.py                           ← standalone Python script (full pipeline end-to-end)
     ├── requirements.txt                ← Python dependencies
