@@ -1,5 +1,5 @@
 # Data Engineer Assignment – Satellite Intelligence
-**Carnot Technologies**
+**Akshad Kolhatkar | Carnot Technologies**
 
 ---
 
